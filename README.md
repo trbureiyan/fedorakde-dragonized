@@ -5,7 +5,22 @@
 
 My customization of my Fedora Linux 38 KDE Plasma. Small tutorial about the themes I use, programs, and more.
 
-# Screenshots
+In this repository you'll find:
+
+Aurorae window decoration themes
+fish & starship prompt
+Kvantum themes
+Plasma color (Sweet)
+Plasma Desktop theme (Sweet-Dark)
+Wallpapers
+Latte Dock profiles
+Plasma Widgets
+Plasma Global Theme
+Cursor skin / style
+Plasma Effects
+
+
+## Screenshots
 
 <p align="center">
 <a><img src="https://i.imgur.com/kTh9IPc.png" style="height: 75%; width:75%;"/></center></a></p>
@@ -14,9 +29,19 @@ My customization of my Fedora Linux 38 KDE Plasma. Small tutorial about the them
 <p align="center">
 <a><img src="https://i.imgur.com/lYEXonT.jpg" style="height: 75%; width:75%;"/></center></a></p>
 
-We'll start from 0 if we had recently installed Fedora KDE / Linux KDE.
+## Details
 
-Indice: 
+- **OS:** [Fedora 38 KDE Plasma](https://fedoraproject.org/spins/kde/)
+- **WM:** [kwin](https://userbase.kde.org/KWin)
+- **Terminal:** [fish](https://fishshell.com)
+- **Terminal Font:** [Hack Nerd Font 13](https://www.nerdfonts.com)
+- **Editor:** [nano](https://www.nano-editor.org)
+- **Theme:** [Plasma, Sweet-Dark (GTK2/3)](https://github.com/EliverLara/Sweet)
+- **Theme Icons:** [BeautyLine](https://store.kde.org/p/1425426/)
+
+## Setup:
+
+Index: 
 <br />
 - [XXX](https://)
   - XXXX XX XXXXXX
