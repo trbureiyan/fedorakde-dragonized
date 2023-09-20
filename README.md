@@ -7,7 +7,6 @@ My customization of my Fedora Linux 38 KDE Plasma. Small tutorial about the them
 
 In this repository you'll find:
 
-- Aurorae window decoration themes
 - fish & starship prompt
 - Kvantum themes
 - Plasma color (Sweet)
