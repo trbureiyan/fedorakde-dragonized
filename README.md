@@ -7,17 +7,17 @@ My customization of my Fedora Linux 38 KDE Plasma. Small tutorial about the them
 
 In this repository you'll find:
 
-Aurorae window decoration themes
-fish & starship prompt
-Kvantum themes
-Plasma color (Sweet)
-Plasma Desktop theme (Sweet-Dark)
-Wallpapers
-Latte Dock profiles
-Plasma Widgets
-Plasma Global Theme
-Cursor skin / style
-Plasma Effects
+- Aurorae window decoration themes
+- fish & starship prompt
+- Kvantum themes
+- Plasma color (Sweet)
+- Plasma Desktop theme (Sweet-Dark)
+- Wallpapers
+- Latte Dock profiles
+- Plasma Widgets
+- Plasma Global Theme
+- Cursor skin / style
+- Plasma Effects
 
 
 ## Screenshots
@@ -39,7 +39,7 @@ Plasma Effects
 - **Theme:** [Plasma, Sweet-Dark (GTK2/3)](https://github.com/EliverLara/Sweet)
 - **Theme Icons:** [BeautyLine](https://store.kde.org/p/1425426/)
 
-## Setup:
+## Setup / Installation
 
 Index: 
 <br />
@@ -47,5 +47,6 @@ Index:
   - XXXX XX XXXXXX
 - XXX
 
+## Recommendations
 
 ---
