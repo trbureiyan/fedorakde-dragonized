@@ -180,59 +180,77 @@ unzip "Name of the Hack nerd font".zip
 ```
 
 ### Installing theme
+---
 
 To install our theme, first open system settings, go to Appearance > Global Theme > Get New Global Themes.
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/2063e60e-9831-4437-bc2d-b595c954a5ed)
 
 Search for Sweet KDE by Eliverlara and install it.
 
-// Photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/0e23c463-ddd4-4845-b305-0dd738a7571b)
+
 
 Once you have the global theme installed, go to Application style > Configure GNOME/GTK Application Style... > Get New GNOME/GTK Application Styles.
 
-// Photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/5f918ca5-4b10-45e0-85c7-07f3c4f9ec43)
+
 
 Search for Sweet by Eliverlara (it may appear as "Sweet - New flavor").
 
-// Photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/405928fe-7e07-41a5-a391-5f1b37ba83b7)
+
 
 Now, select Sweet-dark GTK Theme.
+
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/05ed2a3d-cb0d-4001-9edf-66d8508a3eff)
+
 
 Well. Now confirm that you have installed sweet plasma style and Sweet colors.
 
 For our window customization, go to Window Decoration and apply the next setting:
 
-// Photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/b3e80d57-0e2e-4738-9907-2efe39341e99)
+
 
 In Fonts, you can add the fonts that we installed previously like Fira Sans or Hack Nerd.
 
-// Photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/0a60ec61-f3bc-4b3f-b462-f8ac286d4de8)
+
 
 In Icons, we'll use BeautyLine, so go to Download New Icons, search for BeautyLine by sajjad606, and install it.
 
-// Photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/8a3981de-56ef-4ce0-861a-59dbebc26198)
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/b49973f3-de59-44f5-9735-1a1d46be2157)
+
 
 To use the chroma RGB cursor, go to Cursors > Get New Cursors, search for chroma cursor by vidmo1337, and install it.
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/8baf2b18-7b76-4298-a6bb-5489fc1ab3f9)
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/c1212caa-c147-4487-998e-92513d6b6a0d)
+
 
 You can use the splash screen that you like the most by seeking to Get New Splash Screens, or if you prefer, deactivate the splash screen. In my case, I use the Arch splash.
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/26312221-7baa-4e61-8706-7a710558c353)
+
 
 #### Workspace Behavior
+---
 
 ##### Desktop Effects
 
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/c7ec6301-da09-4291-be63-d269b6fde311)
+
+
 We'll install Wobbly windows and Magic lamp. Search for Wobbly windows and turn it on, following the settings for the effect.
 
-// photo.jpg
-//photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/27c8d784-e56b-43a0-8388-9860aabdaba8)
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/b7f8bf47-7ebc-4465-8647-fd02a8609eab)
 
 Also, enable Magic Lamp:
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/e1f75ffd-041e-4aaf-8e33-0ed162cdf416)
 
 If you don't find Magic Lamp in your Desktop Effects, you can search for it in Get New Desktop Effects.
 
@@ -240,13 +258,15 @@ If you don't find Magic Lamp in your Desktop Effects, you can search for it in G
 
 As we will use Latte Dock and the top bar, to avoid inconvenience, let's disable the screen edges:
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/9b990877-bd94-4b75-a2cc-68ab3d6acc4c)
+
 
 #### Startup and Shutdown
 
 You can still use the Breeze login screen, but I like the Nordic login screen by Eliver Lara.
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/a5b9de6e-6dfd-43a1-85a5-2d7e48702669)
+
 
 ### Kvantum Theme
 
@@ -254,31 +274,37 @@ We'll install a theme with blur and transparency for Dolphin and Konsole.
 
 First, we need the Kvantum engine. So let's go to Discover Store, search for Kvantum, and install the one called "Kvantum theme engine".
 
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/4cac0d16-21c9-4552-963b-42b44a649132)
+
+
 > If you encounter errors during installation, restart your computer and try again.
 
 Now, go to [download](https://store.kde.org/p/1294013/) Sweet KDE theme for kvantum in the [next link](https://store.kde.org/p/1294013/).
 
 Choose "Sweet-transparent-toolbar.tar.xz".
 
-//photo.jpg 
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/fdae0e7f-ff9f-493a-a885-dfb651878a06)
+
 
 Extract the zip archive
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/a3ea469c-2533-4ed4-a01d-b0345113173a)
+
 
 Now, open Kvantum Manager to proceed with the installation of the theme
 
 > If the program doesn't open on the first try, try opening it again.
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/60449de8-1852-49eb-b6e3-35c869d11c59)
 
 Select the theme that we downloaded previously and install it
 
-// photo.jpg 
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/fedaafe5-19d0-45e1-a635-496d01321b13)
+
 
 Go to the next tab, ("Change / Delete Theme") and select "Sweet-transparent-toolbar"
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/812069b6-0706-45a2-b268-f878fecc3d89)
 
 Well, now return to System Settings > Appearance > Application Style, select and apply kvantum-dark.
 
