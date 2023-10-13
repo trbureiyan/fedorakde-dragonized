@@ -18,6 +18,9 @@ In this repository you'll find:
 - Cursor skin / style
 - Plasma Effects
 
+The repository includes detailed instructions, screenshots, and code examples that will help you customize and adjust every aspect of the global theme, console, and dock. You will learn how to change colors, fonts, icons, and visual effects to achieve the desired look.
+
+In addition, the tutorial also provides recommendations and additional tips to enhance the user experience in KDE, such as installing addons and Provide some possible solutions to problems you may encounter.
 
 ## Screenshots
 
