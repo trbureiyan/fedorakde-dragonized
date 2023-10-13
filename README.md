@@ -56,6 +56,11 @@ In this repository you'll find:
 	- Workspace Behavior
 	- Startup and Shutdown
 - Kvantum theme (Blur & transparency)
+- Latte dock
+	- Latte dock settings
+	- Widgets
+- Wallpapers
+- Recommendations
 
 ### Tools that we need
 
@@ -310,9 +315,132 @@ Well, now return to System Settings > Appearance > Application Style, select and
 
 ### Latte Dock
 
+---
+
+Search for "KDE Plasma Desktop - Latte" on the Discover Store and install it.
+
+// photo.jpg
+
+Before customizing our Latte Dock and adding a top bar, let's install some widgets that we need:
+
+First, go to your desktop, right-click, and select "Add Widgets."
+
+// Photo.jpg
+
+In the Widgets window, go to "Get New Widgets."
+
+// Photo.jpg
+
+Search for the Window Buttons Applet by himdek.
+
+// photo.jpg
+
+And the Window Title Applet by Psifidotos.
+
+// photo.jpg
+
+To fully apply the window title and avoid issues, go to your System Settings > Workspace > Window Management > KWin Scripts > Get New Scripts.
+
+Then, install "Hide Titles" by bahamondev.
+
+// photo.jpg
+
+#### Latte Dock Settings
+
+---
+
+Now, let's customize Latte Dock. To do this, open Latte Dock or right-click on any icon in the bottom bar and select "Configure Latte..."
+
+// photo.jpg
+
+> If the settings don't open on the first try, try opening it again.
+
+In the settings, go to the Layouts Editor tab. You will have the Default profile. We'll install our Dr460nized profile. To do this, select "Import" > "Import From Local File..."
+
+// photo.jpg
+
+And import [the file](https://github.com/trbureiyan/fedorakde-dragonized/blob/main/Resources/Dr460nized.layout.latte).
+
+// photo.jpg
+
+Now, select the new profile and click on "Switch."
+
+// Photo.jpg
+
+And now we have the dock both up and down.
+
+Now you can discard or remove the KDE dock:
+
+Right-click on the taskbar > Enter Edit Mode > Remove Panel.
+
+// photo.jpg 
+// photo.jpg
+
+Now, you can remove the white icons or launchers without an icon by right-clicking and selecting "Unpin Launcher."
+
+#### Widgets
+
+---
+
+If you don't have the widgets in the top bar, like the window buttons we installed previously, you can add them by following these steps:
+
+Go to Widgets by right-clicking on the bottom or top tab > "Add Widgets."
+
+// photo.jpg
+
+Search for Window Button and drag it to the top bar on the left side.
+
+Now, let's configure the Window Buttons widget on the top bar.
+
+Go to "Edit Panel."
+
+// photo.jpg
+
+Configure the Window Button.
+
+// photo.jpg
+
+And make sure that these settings are similar to my settings.
+
+// photo.jpg
+
+Now, let's install other widgets.
+
+As before, search for "Better Application Dashboard" by himdek. Right-click on the bar > "Add Widgets" > "Get New Widgets."
+
+// photo.jpg
+
+And add the widget to the top bar.
+
+// photo.jpg
+
+You can also configure the widget, such as changing the icon.
+
+// photo.jpg // photo.jpg
+
+And add a shortcut to access it.
+
+> If you can't find the widget in the previous step, try finding it on the Discover Store > Plasma Addons > Plasma Widgets.
+
+// photo.jpg
+
+Now that we're in Plasma Widgets, let's install our clock widget for the desktop. Search for "Clear Clock" by qewer.
+
+// photo.jpg
+
+Right-click on any empty space on your desktop and select "Add Widgets." Drag Clear Dock onto the desktop. If you want to configure it, just right-click on it.
+
+> If you have issues, or it bothers you that sometimes there are problems with some applications because it may not fit well or interfere with the top panel, you can make it hide automatically.
+
+
+## Wallpapers
+---
 
 
 
 ## Recommendations
+---
+
+No quites la barra de notificaciones de la barra superior, porque puede que deshabilites el control de música y no puedas subir volumen con alguna tecla
 
 ---
