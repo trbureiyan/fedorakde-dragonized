@@ -59,6 +59,8 @@ In this repository you'll find:
 - Latte dock
 	- Latte dock settings
 	- Widgets
+- Konsole Customization
+	- Starship Prompt
 - Wallpapers
 - Recommendations
 
@@ -317,33 +319,35 @@ Well, now return to System Settings > Appearance > Application Style, select and
 
 ---
 
-Search for "KDE Plasma Desktop - Latte" on the Discover Store and install it.
+Search for "KDE Plasma Desktop - Latte" in the Discover Store and install it.
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/81660601-92fb-4af7-a924-0f9d26e61247)
 
 Before customizing our Latte Dock and adding a top bar, let's install some widgets that we need:
 
-First, go to your desktop, right-click, and select "Add Widgets."
+First, go to your desktop, right-click, and select "Add Widgets"
 
-// Photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/160203ac-2d9b-450a-9aa5-388688fa6dfe)
 
-In the Widgets window, go to "Get New Widgets."
+In the Widgets window, go to "Get New Widgets"
 
-// Photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/376c9027-b771-4ee6-9c49-8a99b2412c10)
 
 Search for the Window Buttons Applet by himdek.
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/1aae4f19-854c-4cc5-b7d3-92388be3b09b)
 
 And the Window Title Applet by Psifidotos.
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/f4b42674-43ba-4d66-b749-d98d4a875758)
 
 To fully apply the window title and avoid issues, go to your System Settings > Workspace > Window Management > KWin Scripts > Get New Scripts.
 
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/fc33be5c-4fd5-472e-8ec9-bb23d9ad0cb8)
+
 Then, install "Hide Titles" by bahamondev.
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/4fb2585b-c46a-4252-9de3-865777a4b370)
 
 #### Latte Dock Settings
 
@@ -351,21 +355,25 @@ Then, install "Hide Titles" by bahamondev.
 
 Now, let's customize Latte Dock. To do this, open Latte Dock or right-click on any icon in the bottom bar and select "Configure Latte..."
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/4fc06ad7-da49-4972-830f-5c36a6886c35)
 
-> If the settings don't open on the first try, try opening it again.
+
+> If the settings don't open on the first try, try opening them again.
 
 In the settings, go to the Layouts Editor tab. You will have the Default profile. We'll install our Dr460nized profile. To do this, select "Import" > "Import From Local File..."
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/1c2a8d57-7f02-4634-9186-85a4881c3b30)
+
 
 And import [the file](https://github.com/trbureiyan/fedorakde-dragonized/blob/main/Resources/Dr460nized.layout.latte).
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/8ae32876-39b7-4eeb-8b50-6cb8f0197d94)
 
-Now, select the new profile and click on "Switch."
 
-// Photo.jpg
+Now, select the new profile and click on "Switch"
+
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/89cd9ef0-4621-4f57-9fb2-cb2ba29e1330)
+
 
 And now we have the dock both up and down.
 
@@ -373,10 +381,14 @@ Now you can discard or remove the KDE dock:
 
 Right-click on the taskbar > Enter Edit Mode > Remove Panel.
 
-// photo.jpg 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/cd5cbfda-d56c-4cdc-8ffe-885f93178b90)
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/dbe14c36-0374-4f62-a72b-f71100722809)
+
 
 Now, you can remove the white icons or launchers without an icon by right-clicking and selecting "Unpin Launcher."
+
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/7e5e6417-7368-4c90-b14b-76c5c374dea9)
+
 
 #### Widgets
 
@@ -384,63 +396,174 @@ Now, you can remove the white icons or launchers without an icon by right-clicki
 
 If you don't have the widgets in the top bar, like the window buttons we installed previously, you can add them by following these steps:
 
-Go to Widgets by right-clicking on the bottom or top tab > "Add Widgets."
+Go to Widgets by right-clicking on the bottom or top tab > "Add Widgets"
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/915ed76b-f8c3-4197-b172-518cf19c557c)
+
 
 Search for Window Button and drag it to the top bar on the left side.
 
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/53f87021-cbd2-406e-a6a1-6df99e266167)
+
+
 Now, let's configure the Window Buttons widget on the top bar.
 
-Go to "Edit Panel."
+Go to "Edit Panel"
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/ca03505b-3470-4a17-b4c9-fb536300d255)
+
 
 Configure the Window Button.
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/2c211bf0-78e5-490c-a451-9fbffe1fc088)
+
 
 And make sure that these settings are similar to my settings.
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/7193b933-b3c7-4879-a7d8-5ed709e6c8e1)
+
 
 Now, let's install other widgets.
 
 As before, search for "Better Application Dashboard" by himdek. Right-click on the bar > "Add Widgets" > "Get New Widgets."
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/8e9958fc-8c96-4b8b-9bc1-0aad9209a939)
+
 
 And add the widget to the top bar.
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/a00d342e-0116-45b6-8016-9b818589ce35)
+
 
 You can also configure the widget, such as changing the icon.
 
-// photo.jpg // photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/1d5a439e-5394-40f4-8201-8b7444e4ed10)
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/f4498593-59cb-4d7a-941c-d37719c44b88)
+
 
 And add a shortcut to access it.
 
-> If you can't find the widget in the previous step, try finding it on the Discover Store > Plasma Addons > Plasma Widgets.
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/871d8491-b236-4a1f-9e56-86243be909dd)
 
-// photo.jpg
+
+> If you can't find the widget in the previous step, try finding it in the Discover Store > Plasma Addons > Plasma Widgets.
+
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/e4ca6ef5-d20c-4492-9760-2d89418d5590)
+
 
 Now that we're in Plasma Widgets, let's install our clock widget for the desktop. Search for "Clear Clock" by qewer.
 
-// photo.jpg
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/e485e791-4520-4b31-a3d5-21254ace3424)
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/9dd69e1a-3e14-46d1-9f14-917a82bf804f)
+
 
 Right-click on any empty space on your desktop and select "Add Widgets." Drag Clear Dock onto the desktop. If you want to configure it, just right-click on it.
 
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/14fafedf-86c9-4921-83e4-acb3bdfb2617)
+
 > If you have issues, or it bothers you that sometimes there are problems with some applications because it may not fit well or interfere with the top panel, you can make it hide automatically.
+
+Right-click on any tab, and enter in Edit panel
+
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/2e67d9b5-7a5e-49f7-9bee-3a0a606f4b38)
+
+On latte configuration, search for Visibility and turn on Auto Hide.
+
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/23f79a77-8b4d-45db-9cb5-67413249fd68)
+
+
+### Konsole Customization
+
+For our shell, we need to install fish first:
+
+In Konsole / Shell run:
+
+
+``` sh
+sudo dnf install fish
+```
+
+Once fish is installed, let's enter Konsole Settings:
+
+First, enter Profiles, create a New profile with the name that you prefer. In my case, I named the profile "Dragonized."
+
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/a23cb652-ea0b-4b93-8ac0-92cdc36a1041)
+
+
+Edit the profile, and ad `/bin/fish` in Command:
+
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/86f199c3-c4f0-40fa-8a05-f7259192dd09)
+
+
+Go to Appearance, select Edit, and set these settings:
+
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/f8cd1c4d-ac14-4976-8d41-3a62524c1fb4)
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/1c24a778-5b81-4d4f-9c69-576c2ea376e0)
+
+
+In font, use Hack Nerd Font that we installed previously.
+
+Now you can Apply and close the window, and finally set the new profile as Default.
+
+#### Starship Prompt
+
+Let's install the Starship Prompt.
+First got to [starship.rs](https://starship.rs) and follow the installation instructions.
+
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/80953f5e-4854-4f41-b813-954ae96a5aaf)
+
+
+> You can check [the documentation](https://starship.rs/guide/) for more customization.
+
+To follow the customization, copy the fish folder and starship archive.
+
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/54579b37-55bc-482a-8157-4d1224db437c)
+
+
+Go to your home directory and press ctrl + h to see the hidden folders.
+
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/04c92d0d-77ed-484e-ad63-cc7a720f0f55)
+
+Enter on .config
+
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/bf4b7156-84d6-403f-b0bc-3d0378f1130e)
+
+
+And paste the files that you copied previously into the folder.
+
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/f5236539-078b-4249-8db7-113f89502d5b)
+
+
+Close Konsole and open it again; now you will see the customized prompt.
+
+![image](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/d44e8607-33c9-4a02-8324-577f3f2b4dad)
+
+
+And that concludes the customization, but you can customize more and refer to the [starship.rs](https://starship.rs/) documentation.
+
+Customize the fish shell by typing:
+``` sh
+fish_config
+```
+In Konsole. An HTML page will be displayed where you can configure your shell.
+
+Thank you for reading and following this repository.
+
+You can follow me on Instagram, Facebook, and Twitter as @trbureiyan.
+
+See you!
 
 
 ## Wallpapers
 ---
 
+![aestheticjapanese_wallpaper-transformed](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/61bd3895-8242-4810-91e1-c0fb7365708d)
+![japanesesamurai_wallpaper-transformed](https://github.com/trbureiyan/fedorakde-dragonized/assets/111925453/f9ae4308-ee01-4eec-b819-80a13d2b1cb6)
 
 
 ## Recommendations
 ---
 
-No quites la barra de notificaciones de la barra superior, porque puede que deshabilites el control de música y no puedas subir volumen con alguna tecla
+Don't remove the notification bar from the top bar because it may disable music control, and you will not be able to adjust the volume with any key.
 
 ---
